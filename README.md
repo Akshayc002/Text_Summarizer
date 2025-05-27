@@ -23,6 +23,9 @@ A web-based application that summarizes long text into concise summaries using a
 ---
 
 ## 🔧 Setup Instructions
+
+git clone https://github.com/Akshayc002/Text_Summarizer.git
+
 **on Terminal 1 for Flask:**
 
 cd .\app
@@ -38,3 +41,10 @@ python .\app.py
 .\mvnw spring-boot:run
 
 Now go to http://localhost:8080/index.html for the application to use
+
+## 🙌 Credits
+Hugging Face Transformers
+
+Flask - Python microservice framework
+
+Spring Boot - Backend REST API
